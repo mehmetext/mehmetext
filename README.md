@@ -6,7 +6,7 @@ Front-End & Mobile Developer
 
 ✨ I'm [@mehmetext](https://github.com/mehmetext "@mehmetext"), I think you can also say me [@bikodist](https://www.instagram.com/bikodist "@bikodist") on Instagram. I can say my age but it changes every year, so my birth year is 2001 (let's calculate my age ^^). I'm really happy that things like writing code, reading book are among my hobbies. I'm mobile application developer and the apps I developed are on Google Play. I have 4 years experience on web design. I have 2 years experience on mobile application development, I also continue developing mobile apps. I really enjoy developing mobile apps. I try to produce quality works for the mobile apps and websites that I produced is used by people.
 
-* 🌍  I'm based in Konya, Turkey.
+* 🌍  I'm based in Konya, Turkiye.
 * 🖥️  See my portfolio at [https://mehmetext.github.io/](http://mehmetext.github.io/)
 * ✉️  You can contact me at [mehmetkonukcum@gmail.com](mailto:mehmetkonukcum@gmail.com)
 * 🧠  I'm learning React Native, Flutter, PHP and C#
