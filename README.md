@@ -9,7 +9,7 @@ Front-End & Mobile Developer
 * 🌍  I'm based in Konya, Turkiye.
 * 🖥️  See my portfolio at [https://mehmetext.github.io/](http://mehmetext.github.io/)
 * ✉️  You can contact me at [mehmetkonukcum@gmail.com](mailto:mehmetkonukcum@gmail.com)
-* 🧠  I'm learning React Native, Flutter, PHP and C#
+* 🧠  I'm learning React and Flutter
 * 🤝  I'm open to collaborating on Flutter projects
 * ⚡  I'm also a graphic designer. I like designing 😋
 
