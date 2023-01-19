@@ -6,12 +6,13 @@ Front-End & Mobile Developer
 
 ✨ I'm [@mehmetext](https://github.com/mehmetext "@mehmetext"), I think you can also say me [@bikodist](https://www.instagram.com/bikodist "@bikodist") on Instagram. I can say my age but it changes every year, so my birth year is 2001 (let's calculate my age ^^). I'm really happy that things like writing code, reading book are among my hobbies. I'm mobile application developer and the apps I developed are on Google Play. I have 4 years experience on web design. I have 2 years experience on mobile application development, I also continue developing mobile apps. I really enjoy developing mobile apps. I try to produce quality works for the mobile apps and websites that I produced are used by people.
 
-* 🌍  I'm based in Konya, Turkiye.
-* 🖥️  See my portfolio at [https://konukcu.dev/](http://konukcu.dev/).
-* ✉️  You can contact me at [mehmet@konukcu.dev](mailto:mehmet@konukcu.dev).
-* 🧠  I'm learning React, React Native and Flutter.
-* 🤝  I'm open to collaborating on React, React Native and Flutter projects.
-* ⚡  I'm also a graphic designer. I like designing 😋
+* 🌍  I'm based in Konya, Turkiye.
+* 🖥️ See my portfolio at [https://konukcu.dev/](http://konukcu.dev/).
+* ✉️  You can contact me at [mehmet@konukcu.dev](mailto:mehmet@konukcu.dev).
+* 🔗  See my GitLab profile at [https://gitlab.com/mehmetext](https://gitlab.com/mehmetext).
+* 🧠  I'm learning React, React Native and Flutter.
+* 🤝  I'm open to collaborating on React, React Native and Flutter projects.
+* ⚡ I'm also a graphic designer. I like designing 😋
 
 <a href="https://www.twitter.com/memofobi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/memofobi?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
