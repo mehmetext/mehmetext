@@ -14,8 +14,8 @@ Front-End & Mobile Developer
 * 🤝  I'm open to collaborating on React, React Native and Flutter projects.
 * ⚡ I'm also a graphic designer. I like designing 😋
 
-<a href="https://www.twitter.com/memofobi" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/memofobi?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+<a href="https://www.twitter.com/konukcudev" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/konukcudev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
 ### Skills
