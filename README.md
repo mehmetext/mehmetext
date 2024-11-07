@@ -6,7 +6,6 @@
 
 ## 🚀 About Me
 - 🎓 Software Engineering Student at Konya Technical University
-- 👥 Co-Lead at Software Development Community
 - 📱 Front-End Enthusiast
 - 🌱 Currently focusing on Web Development
 
